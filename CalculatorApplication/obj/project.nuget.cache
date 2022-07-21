@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vbk+lc2a5xw02voB1uVt52GM78SCgFrmv2YK0y8Y/JHuwhdWraTNuRALmitMUsyyz7pqBppdsUmKoHombiu+SA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alekh\\OneDrive\\Documents\\New folder\\CalculatorApplication\\CalculatorApplication\\CalculatorApplication\\CalculatorApplication.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alekh\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\alekh\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\alekh\\.nuget\\packages\\swashbuckle.aspnetcore\\6.3.1\\swashbuckle.aspnetcore.6.3.1.nupkg.sha512",
+    "C:\\Users\\alekh\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.3.1\\swashbuckle.aspnetcore.swagger.6.3.1.nupkg.sha512",
+    "C:\\Users\\alekh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.3.1\\swashbuckle.aspnetcore.swaggergen.6.3.1.nupkg.sha512",
+    "C:\\Users\\alekh\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.3.1\\swashbuckle.aspnetcore.swaggerui.6.3.1.nupkg.sha512"
+  ],
+  "logs": []
+}
